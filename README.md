@@ -92,3 +92,8 @@ This function is used to include all the valid and eligible processes in the hea
 
 viii. int set_scale(float a, float b, float c):
 This function is used to set the scale of the graph. In this function, we find the maximum value between a,b & c and use it to calculate the scale of the graph.
+
+## Sample Output:
+![1](https://github.com/CGreenP/Comparative-analysis-of-all-Preemptive-Scheduling/assets/56307530/2b4c39ea-b11b-4d36-8223-c9b609825260)
+
+![2](https://github.com/CGreenP/Comparative-analysis-of-all-Preemptive-Scheduling/assets/56307530/9a455dd7-0733-4354-86f0-6691065ef0ae)
